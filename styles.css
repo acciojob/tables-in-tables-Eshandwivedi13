@@ -1,2 +1,11 @@
-
+ th, caption{
+	border : 2px solid #000;
+	 font-size : 20px;
+	 font-weight : bold;
+	 
+}
+table{
+	/* border : 2px solid #000; */
+	/* margin-bottom : 20px; */
+}
 /* Your CSS Code here. */
