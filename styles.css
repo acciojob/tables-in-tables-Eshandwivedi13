@@ -5,7 +5,9 @@
 	 
 }
 table{
-	/* border : 2px solid #000; */
+	border : 2px solid #000;
+	margin-top : 20px;
+	margin-bottom : 15px;
 	/* margin-bottom : 20px; */
 }
 /* Your CSS Code here. */
